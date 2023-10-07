@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Epiphany-cl/Epiphany-cl/output/github-contribution-grid-snake.svg)
+
 - 👋 Hi, I’m @Epiphany-cl
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
