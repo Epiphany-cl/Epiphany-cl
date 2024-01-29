@@ -1,10 +1,9 @@
 ![](https://raw.githubusercontent.com/Epiphany-cl/Epiphany-cl/output/github-contribution-grid-snake.svg)
 
-- 👋 Hi, I’m @Epiphany-cl
-- 👀 I’m interested in ...
+- 👋 Hi, I’m 陈龙
+- 👀 I’m interested in 编程
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on 15507111901
 
 <!---
 Epiphany-cl/Epiphany-cl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
